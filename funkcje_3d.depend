@@ -1,0 +1,92 @@
+# depslib dependency file v1.0
+1447953490 source:e:\codeblock\funkcje_3d\allegrostart.cpp
+	<stdio.h>
+	<iostream>
+	<allegro5/allegro_primitives.h>
+	"allegro5/allegro.h"
+	"allegro5/allegro_image.h"
+	"allegroStart.h"
+
+1446964366 e:\codeblock\funkcje_3d\allegrostart.h
+
+1447775506 source:e:\codeblock\funkcje_3d\main.cpp
+	<stdio.h>
+	<cstdlib>
+	<math.h>
+	"allegro5/allegro.h"
+	<allegro5/allegro_primitives.h>
+	"allegro5/allegro_image.h"
+	"allegroStart.h"
+	"fire.h"
+
+1447772022 e:\codeblock\funkcje_3d\fire.h
+
+1447953887 source:e:\codeblock\funkcje_3d\fire.cpp
+	<cstdlib>
+	<stdio.h>
+	<iostream>
+	<allegro5/allegro_color.h>
+	<math.h>
+	"fire.h"
+
+1466594954 source:f:\kody zrodlowe\z pendrivea - kody zrodlowe\codeblock\funkcje_3d\fire.cpp
+	<cstdlib>
+	<stdio.h>
+	<iostream>
+	<allegro5/allegro_color.h>
+	<math.h>
+	"fire.h"
+
+1466594954 f:\kody zrodlowe\z pendrivea - kody zrodlowe\codeblock\funkcje_3d\fire.h
+
+1466594688 source:f:\kody zrodlowe\z pendrivea - kody zrodlowe\codeblock\funkcje_3d\main.cpp
+	<stdio.h>
+	<cstdlib>
+	<math.h>
+	"allegro5/allegro.h"
+	<allegro5/allegro_primitives.h>
+	"allegro5/allegro_image.h"
+	"allegroStart.h"
+	"fire.h"
+
+1466594926 f:\kody zrodlowe\z pendrivea - kody zrodlowe\codeblock\funkcje_3d\allegrostart.h
+
+1466594914 source:f:\kody zrodlowe\z pendrivea - kody zrodlowe\codeblock\funkcje_3d\allegrostart.cpp
+	<stdio.h>
+	<iostream>
+	<allegro5/allegro_primitives.h>
+	"allegro5/allegro.h"
+	"allegro5/allegro_image.h"
+	"allegroStart.h"
+
+1467390771 source:i:\cb\funkcje_3d\allegrostart.cpp
+	<stdio.h>
+	<iostream>
+	<allegro5/allegro_primitives.h>
+	"allegro5/allegro.h"
+	"allegro5/allegro_image.h"
+	"allegroStart.h"
+
+1466594926 i:\cb\funkcje_3d\allegrostart.h
+
+1467390892 source:i:\cb\funkcje_3d\fire.cpp
+	<cstdlib>
+	<stdio.h>
+	<iostream>
+	<allegro5/allegro_color.h>
+	<math.h>
+	"fire.h"
+
+1466594954 i:\cb\funkcje_3d\fire.h
+
+1467658205 source:i:\cb\funkcje_3d\main.cpp
+	<stdio.h>
+	<iostream>
+	<cstdlib>
+	<math.h>
+	"allegro5/allegro.h"
+	<allegro5/allegro_primitives.h>
+	"allegro5/allegro_image.h"
+	"allegroStart.h"
+	"fire.h"
+
